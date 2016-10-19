@@ -22,9 +22,17 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/
+  repo:           https://github.com/firephoenix7921
+  
+twitter:
+  repo:           https://twitter.com/GUAbcSRBHMLPia8
+  
+# jekyll-tagging option
+tag_page_layout: tag_page
+tag_page_dir: tags
   
 # Gems
 gems:
   - jekyll-paginate
   - jekyll-gist
+ 

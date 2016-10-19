@@ -2,6 +2,10 @@
 layout: post
 title: CSS Summary
 abstract: CSS总结
+categories: summary
+tags: [summary, css]
+hasTag: true
+comments: true
 ---
 
 # CSS

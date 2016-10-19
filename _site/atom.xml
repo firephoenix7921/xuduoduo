@@ -4,7 +4,7 @@
  <title>Xuduoduo's Blog</title>
  <link href="http://xuduoduo.me/atom.xml" rel="self"/>
  <link href="http://xuduoduo.me/"/>
- <updated>2016-10-19T16:51:17+08:00</updated>
+ <updated>2016-10-20T00:55:00+08:00</updated>
  <id>http://xuduoduo.me</id>
  <author>
    <name>xuduoduo</name>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>CSS Summary</title>
-   <link href="http://xuduoduo.me/2016/10/19/summary-css/"/>
+   <link href="http://xuduoduo.me/summary/2016/10/19/summary-css/"/>
    <updated>2016-10-19T00:00:00+08:00</updated>
-   <id>http://xuduoduo.me/2016/10/19/summary-css</id>
+   <id>http://xuduoduo.me/summary/2016/10/19/summary-css</id>
    <content type="html">&lt;h1&gt;CSS&lt;/h1&gt;
 
 &lt;h2&gt;盒模型&lt;/h2&gt;
@@ -170,9 +170,9 @@ inherit       规定应该从父元素继承 display 属性的值
  
  <entry>
    <title>Summary</title>
-   <link href="http://xuduoduo.me/2016/10/17/summary-for-everyday/"/>
+   <link href="http://xuduoduo.me/summary/2016/10/17/summary-for-everyday/"/>
    <updated>2016-10-17T00:00:00+08:00</updated>
-   <id>http://xuduoduo.me/2016/10/17/summary-for-everyday</id>
+   <id>http://xuduoduo.me/summary/2016/10/17/summary-for-everyday</id>
    <content type="html">&lt;h1&gt;日积月累&lt;/h1&gt;
 
 &lt;h2&gt;5.5&lt;/h2&gt;

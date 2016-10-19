@@ -2,6 +2,10 @@
 layout: post
 title: Summary
 abstract: 每天把当日的收获记下来，巩固基础知识，学习最新技术
+categories: summary
+tags: [summary, js]
+hasTag: true
+comments: true
 ---
 
 #  日积月累

@@ -12,7 +12,7 @@ comments: true
 
 ## 盒模型
 盒模型(box model)是CSS中的一个重要概念，它是元素大小的呈现方式。
-![box](media/14689858869016/box.png)
+![box](media/box.png)
 CSS3中新增了一种盒模型计算方式：box-sizing属性。盒模型默认的值是content-box, 新增的值是padding-box和border-box，几种盒模型计算元素宽高的区别如下：
 1. content-box（默认）
 布局所占宽度Width：
